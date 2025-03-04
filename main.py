@@ -859,22 +859,6 @@ print(f"blacklist行数: {combined_blacklist_hj} ")
 print(f"merged_output.txt行数: {all_lines_hj} ")
 print(f"others_output.txt行数: {other_lines_hj} ")
 
-    now = datetime.datetime.now()
-    fp = open('README.md', "w+", encoding='utf-8')
-    fp.write("# TV直播源\n\n")
-    fp.write("> 声明：内容均来自网络，仅供个人测试学习技术交流使用，未经同意请勿商用，如有侵权，请联系删除。\n\n")
-    fp.write("| 类别  | 文件名  | 更新频率                                       | LINK |\n\n")
-    fp.write("|-------|-------|------------------------------------------------|------------|\n\n")
-    fp.write("|直播源| （live.txt） |每日 | https://live.iptv365.org/live.txt |\n\n")
-    fp.write("|直播源| （live.m3u） |每日 | https://live.iptv365.org/live.m3u |\n\n")
-    fp.write("|黑名单| （blacklist_auto.txt） |  不定时 | 无效直播源自动过滤   |\n\n")
-    fp.write("|白名单| （whitelist_auto.txt） |  不定时 | 高响应源汇至直播源   |\n\n")
-    fp.write("本次自动更新时间为：" + now.strftime("%Y-%m-%d %H:%M:%S") + "\n\n")
-    fp.write("## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=kimwang1978/collect-tv-txt&type=Date)](https://star-history.com/#kimwang1978/collect-tv-txt&Date)\n\n")
-    fp.close()
-
 #备用1：http://tonkiang.us
 #备用2：https://www.zoomeye.hk,https://www.shodan.io,https://tv.cctv.com/live/
 #备用3：(BlackList检测对象)http,rtmp,p3p,rtp（rtsp，p2p）
-
