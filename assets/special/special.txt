@@ -3904,40 +3904,43 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 维护内容：维护内容：维护 Gather「删除 •IPV6 源 / •國際「匯集」」,https://epg.iill.top/v/302.mp4
 Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-「亚冠二级」01:50 1/4决赛 沙亚赫 vs 迪拜国民 乔迁,https://tv.iill.top/FB/ijecyN
-「亚冠二级」15:50 1/4决赛 悉尼FC vs 全北现代 梁祥宇,https://tv.iill.top/FB/SkmWQZ
-「NBA」07:25 常规赛 黄蜂vs老鹰 周赫,https://tv.iill.top/NBA/q36cro
-「NBA」07:25 常规赛 雷霆vs凯尔特人 蔡凯臣,https://tv.iill.top/NBA/qodIwo
-「NBA」07:25 常规赛 76人vs猛龙 刘芳宇,https://tv.iill.top/NBA/hWRWcM
-「NBA」07:55 常规赛 快船vs热火 吴博文,https://tv.iill.top/NBA/wCLtcY
-「NBA」07:55 常规赛 快船vs热火 大史,https://tv.iill.top/NBA/rvddAe
-「NBA」07:55 常规赛 爵士vs灰熊 张浩岳,https://tv.iill.top/NBA/fzQKre
-「NBA」07:55 常规赛 独行侠vs马刺 邵化谦,https://tv.iill.top/NBA/cngnKu
-「NBA」07:55 常规赛 太阳vs火箭 连睿 周鹏,https://tv.iill.top/NBA/MekShs
-「NBA」09:55 常规赛 尼克斯vs开拓者 王冠证 殷文玉,https://tv.iill.top/NBA/tRAKtb
-「NBA」09:45 常规赛 森林狼vs掘金 杨健 李根 裴优,https://tv.iill.top/NBA/qfncuf
-「WTA」02:00 高芙止步16强 凯斯出战 高芙止步16强 凯斯出战 赛场原声,https://tv.iill.top/Migu/bxKm3m
-「WTT」09:30 【训练馆视角】直击国乒赛前训练 【训练馆视角】直击国乒赛前训练 训练馆,https://tv.iill.top/Migu/YWyU7I
-「WTT」10:45 梁靖崑vs卢伟 陈幸同PK郑怡静 梁靖崑vs卢伟 陈幸同PK郑怡静 小马哥 周泽昊,https://tv.iill.top/Migu/dsTdO1
-「WTT」11:00 梁靖崑vs卢伟 陈幸同PK郑怡静 梁靖崑vs卢伟 陈幸同PK郑怡静 混采区,https://tv.iill.top/Migu/eTQOvJ
-「WTT」11:00 梁靖崑vs卢伟 陈幸同PK郑怡静 梁靖崑vs卢伟 陈幸同PK郑怡静 赛场原声,https://tv.iill.top/Migu/RLQRcv
-「WTT」11:00 梁靖崑vs卢伟 陈幸同PK郑怡静 梁靖崑vs卢伟 陈幸同PK郑怡静 英文解说,https://tv.iill.top/Migu/cQHSo2
-「英雄联盟全球先锋赛」15:30 TL vs CFO TL vs CFO 官方解说,https://tv.iill.top/Migu/vZ9xwf
-「KPL」16:40 北京JDG vs 长沙TES.A 北京JDG vs 长沙TES.A 官方解说,https://tv.iill.top/Migu/noAHLD
-「英雄联盟全球先锋赛」19:00 KC vs HLE KC vs HLE 官方解说,https://tv.iill.top/Migu/w2jk03
-「WCBA」19:20 1/4决赛 东莞新彤盛 VS 山东赤水河酒 解说,https://tv.iill.top/Migu/fRrAfd
-「WCBA」19:20 1/4决赛 四川蜀道远达 VS 江苏南钢 解说,https://tv.iill.top/Migu/gZTfWq
-「WCBA」19:20 1/4决赛 山西竹叶青酒 VS 上海浦发银行 解说,https://tv.iill.top/Migu/6ptUOW
-「WCBA」19:20 1/4决赛 内蒙古农信 VS 新疆国达氢 解说,https://tv.iill.top/Migu/uom1Hk
-「CBA」19:00 常规赛第39轮 江苏肯帝亚vs北京控股 庄宁宇 王润陶,https://tv.iill.top/Migu/lfSkK3
-「CBA」19:25 常规赛第39轮 江苏肯帝亚vs北京控股 洪超,https://tv.iill.top/Migu/YEjHc7
-「CBA」19:25 常规赛第39轮 江苏肯帝亚vs北京控股 周赫,https://tv.iill.top/Migu/TQiyFi
-「CBA」19:25 常规赛第39轮 江苏肯帝亚vs北京控股 现场原声,https://tv.iill.top/Migu/U3kcXo
-「CBA」19:00 常规赛第39轮 山东高速vs山西汾酒 孙博 焦健 丁伟,https://tv.iill.top/Migu/7LdQLz
-「CBA」19:25 常规赛第39轮 山东高速vs山西汾酒 王新通,https://tv.iill.top/Migu/daLTvL
-「CBA」19:25 常规赛第39轮 山东高速vs山西汾酒 石楷文,https://tv.iill.top/Migu/HvLGwi
-「CBA」19:25 常规赛第39轮 山东高速vs山西汾酒 现场原声,https://tv.iill.top/Migu/d0Elfm
-「KPL」20:00 广州TTG vs 上海EDG.M 广州TTG vs 上海EDG.M 官方解说,https://tv.iill.top/Migu/V4jJPE
+「NBA」06:55 常规赛 奇才VS活塞 王凯,https://tv.iill.top/NBA/iCbrAJ
+「NBA」07:25 常规赛 湖人vs雄鹿 庄宁宇 张兆旭,https://tv.iill.top/NBA/wRNOdr
+「NBA」07:25 常规赛 湖人vs雄鹿 郑泽鹏,https://tv.iill.top/NBA/M7Caek
+「NBA」07:55 常规赛 篮网vs公牛 周赫,https://tv.iill.top/NBA/f2MrOv
+「NBA」07:55 常规赛 魔术VS鹈鹕 王润陶,https://tv.iill.top/NBA/8zXPOt
+「NBA」09:45 常规赛 国王vs勇士 连睿 周鹏 小七,https://tv.iill.top/NBA/uWIEmV
+「NBA」09:55 常规赛 国王vs勇士 拜月宁,https://tv.iill.top/NBA/07P5CV
+「WTA」02:00 郑钦文止步8强 米拉、凯斯出战 郑钦文止步8强 米拉、凯斯出战 赛场原声,https://tv.iill.top/Migu/ZOFISC
+「WTT」09:30 【训练馆视角】直击国乒赛前训练 【训练馆视角】直击国乒赛前训练 训练馆,https://tv.iill.top/Migu/9Ixyl2
+「WTT」10:45 梁靖崑PK林高远迎内战 王曼昱、王楚钦战强敌 梁靖崑PK林高远迎内战 王曼昱、王楚钦战强敌 周冠达 周泽昊,https://tv.iill.top/Migu/YkNAhv
+「WTT」11:00 梁靖崑PK林高远迎内战 王曼昱、王楚钦战强敌 梁靖崑PK林高远迎内战 王曼昱、王楚钦战强敌 混采区,https://tv.iill.top/Migu/YFaTp4
+「WTT」11:00 梁靖崑PK林高远迎内战 王曼昱、王楚钦战强敌 梁靖崑PK林高远迎内战 王曼昱、王楚钦战强敌 赛场原声,https://tv.iill.top/Migu/mrACWs
+「WTT」11:00 梁靖崑PK林高远迎内战 王曼昱、王楚钦战强敌 梁靖崑PK林高远迎内战 王曼昱、王楚钦战强敌 英文解说,https://tv.iill.top/Migu/5aTmYb
+「英雄联盟全球先锋赛」15:30 CFO vs TES CFO vs TES 官方解说,https://tv.iill.top/Migu/13VPvW
+「KPL」16:40 武汉eStarPro vs 西安WE 武汉eStarPro vs 西安WE 官方解说,https://tv.iill.top/Migu/78ODBt
+「英雄联盟全球先锋赛」19:00 TL vs HLE TL vs HLE 官方解说,https://tv.iill.top/Migu/QDamKu
+「WCBA」19:20 排位赛 石家庄英励 VS 河南豫光金铅 解说,https://tv.iill.top/Migu/ot0BCZ
+「WCBA」19:20 排位赛 福建晋江众腾 VS 武汉盛帆黄鹤 解说,https://tv.iill.top/Migu/ZmzvYi
+「CBA」19:15 常规赛第40轮 北京北汽vs宁波町渥 邵化谦 霍楠,https://tv.iill.top/Migu/iaM5Lo
+「CBA」19:25 常规赛第40轮 北京北汽vs宁波町渥 现场原声,https://tv.iill.top/Migu/FGvOCz
+「CBA」19:00 常规赛第40轮 浙江方兴渡vs广东东阳光 徐秦威 陈正昊 王羽希,https://tv.iill.top/Migu/hAE6m3
+「CBA」19:25 常规赛第40轮 浙江方兴渡vs广东东阳光 郭知昊,https://tv.iill.top/Migu/GFsAn2
+「CBA」19:25 常规赛第40轮 浙江方兴渡vs广东东阳光 翻译小余,https://tv.iill.top/Migu/IB28gO
+「CBA」19:25 常规赛第40轮 浙江方兴渡vs广东东阳光 现场原声,https://tv.iill.top/Migu/2VM3Mi
+「CBA」19:00 常规赛第40轮 南京头排苏酒vs浙江稠州金租 孔德昕,https://tv.iill.top/Migu/r8nJSk
+「CBA」19:25 常规赛第40轮 南京头排苏酒vs浙江稠州金租 现场原声,https://tv.iill.top/Migu/VwKw2J
+「CBA」19:00 常规赛第40轮 广州朗肽海本vs四川丰谷酒业 张浩岳,https://tv.iill.top/Migu/wpNbk8
+「CBA」19:25 常规赛第40轮 广州朗肽海本vs四川丰谷酒业 现场原声,https://tv.iill.top/Migu/PK5jce
+「CBA」19:00 常规赛第40轮 福建晋江文旅vs新疆伊力特 连睿,https://tv.iill.top/Migu/TCXwfq
+「CBA」19:25 常规赛第40轮 福建晋江文旅vs新疆伊力特 洪荒,https://tv.iill.top/Migu/ep5VEJ
+「CBA」19:25 常规赛第40轮 福建晋江文旅vs新疆伊力特 卢鹏儒,https://tv.iill.top/Migu/tGrlr3
+「CBA」19:25 常规赛第40轮 福建晋江文旅vs新疆伊力特 现场原声,https://tv.iill.top/Migu/cFOuv0
+「CBA」19:00 常规赛第40轮 九台农商银行vs上海久事 王冠证,https://tv.iill.top/Migu/Ve6Q2R
+「CBA」19:25 常规赛第40轮 九台农商银行vs上海久事 房峰浩,https://tv.iill.top/Migu/E3fSsB
+「CBA」19:25 常规赛第40轮 九台农商银行vs上海久事 薛思佳,https://tv.iill.top/Migu/YMQpnb
+「CBA」19:25 常规赛第40轮 九台农商银行vs上海久事 现场原声,https://tv.iill.top/Migu/YshMvV
+「KPL」20:00 重庆狼队 vs Hero久竞 重庆狼队 vs Hero久竞 官方解说,https://tv.iill.top/Migu/Kz3NU5
 鳳凰衛視·中文「限UA」,http://dns.yiandrive.com:15907/phenix/fhzw
 鳳凰衛視·資訊「限UA」,http://dns.yiandrive.com:15907/phenix/fhzx
 鳳凰衛視·香港「限UA」,http://dns.yiandrive.com:15907/phenix/fhhk
